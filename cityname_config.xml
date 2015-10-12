@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+	<province name="直辖市" string="zhixiashi">
+		<citys list="chongqing(023),beijing(010),shanghai(021),tianjin(022)"/>
+	</province>
+	
+	<province name="安徽" string="anhui">
+		<citys list="hefei(0551),suzhou2(0557),huaibei(0561),fuyang(0558),bengbu(0552),huainan(0554),chuzhou(0550),maanshan(0555),wuhu(0553),tongling(0562),anqing(0556),huangshan(0559),liuan(0564),chaohu(0565),chizhou(0566),xuancheng(0563),bozhou(0558)"/>
+	</province>
+	
+	<province name="福建" string="fujian">
+		<citys list="xiamen(0592),fuzhou1(0591),nanping(0599),sanming(0598),putian(0594),quanzhou(0595),zhangzhou(0596),longyan(0597),ningde(0593)"/>
+	</province>
+	
+	<province name="甘肃" string="gansu">
+		<citys list="lanzhou(0931),jiayuguan(0937),jinchang(0935),baiyin(0943),tianshui(0938),jiuquan(0937),zhangye(0936),wuwei(0935),qingyang(0934),pingliang(0933),dingxi(0932),longnan(0939)"/>
+	</province>
+	
+	<province name="广东" string="guangdong">
+		<citys list="guangzhou(020),shenzhen(0755),qingyuan(0763),shaoguan(0751),heyuan(0762),meizhou(0753),chaozhou(0768),shantou(0754),jieyang(0663),shanwei(0660),huizhou(0752),dongguan(0769),zhuhai(0756),zhongshan(0760),jiangmen(0750),foshan(0757),zhaoqing(0758),yunfu(0766),yangjiang(0662),maoming(0668),zhanjiang(0759)"/>
+	</province>
+	
+	<province name="贵州" string="guizhou">
+		<citys list="guiyang(0851),liupanshui(0858),zunyi(0852),anshun(0853)"/>
+	</province>
+	
+	<province name="河北" string="hebei">
+		<citys list="shijiazhuang(0311),handan(0310),tangshan(0315),baoding(0312),qinhuangdao(0335),xingtai(0319),zhangjiakou(0313),chengde(0314),cangzhou(0317),langfang(0316),hengshui(0318)"/>
+	</province>
+	
+	<province name="黑龙江" string="heilongjiang">
+		<citys list="haerbin(0451),qiqihaer(0452),heihe(0456),daqing(0459),yichun1(0458),hegang(0468),jiamusi(0454),shuangyashan(0469),qitaihe(0464),jixi(0467),mudanjiang(0453),suihua(0455)"/>
+	</province>
+	
+	<province name="河南" string="henan">
+		<citys list="zhengzhou(0371),kaifeng(0378),luoyang(0379),pingdingshan(0375),anyang(0372),hebi(0392),xinxiang(0373),jiaozuo(0391),puyang(0393),xuchang(0374),luohe(0395),sanmenxia(0398),nanyang(0377),shangqiu(0370),zhoukou(0394),zhumadian(0396),xinyang(0376)"/>
+	</province>
+	
+	<province name="湖北" string="hubei">
+		<citys list="wuhan(027),shiyan(0719),xiangyang(0710),jingmen(0724),xiaogan(0712),huanggang(0713),ezhou(0711),huangshi(0714),xianning(0715),jingzhou(0716),yichang(0717),suizhou(0722)"/>
+	</province>
+	
+	<province name="湖南" string="hunan">
+		<citys list="changsha(0731),zhangjiajie(0744),changde(0736),yiyang(0737),yueyang(0730),zhuzhou(0731),xiangtan(0731),hengyang(0734),chenzhou(0735),yongzhou(0746),shaoyang(0739),huaihua(0745),loudi(0738)"/>
+	</province>
+	
+	<province name="吉林" string="jilin">
+		<citys list="changchun(0431),jilin(0432),baicheng(0436),songyuan(0438),siping(0434),liaoyuan(0437),tonghua(0435),baishan(0439)"/>
+	</province>
+	
+	<province name="江西" string="jiangxi">
+		<citys list="nanchang(0791),jiujiang(0792),jingdezhen(0798),yingtan(0701),xinyu(0790),pingxiang(0799),ganzhou(0797),shangrao(0793),fuzhou2(0794),yichun2(0795),jian(0796)"/>
+	</province>
+	
+	<province name="江苏" string="jiangsu">
+		<citys list="nanjing(025),xuzhou(0516),lianyungang(0518),suqian(0527),huaian(0517),yancheng(0515),yangzhou(0514),taizhou1(0523),nantong(0513),zhenjiang(0511),changzhou(0519),wuxi(0510),suzhou1(0512)"/>
+	</province>
+	
+	<province name="辽宁" string="liaoning">
+		<citys list="shenyang(024),dalian(0411),chaoyang(0421),fuxin(0418),tieling(0410),fushun(0413),benxi(0414),liaoyang(0419),anshan(0412),dandong(0415),yingkou(0417),panjin(0427),jinzhou(0416),huludao(0429)"/>
+	</province>
+	
+	<province name="山东" string="shandong">
+		<citys list="jinan(0531),qingdao(0532),liaocheng(0635),dezhou(0534),dongying(0546),zibo(0533),weifang(0536),yantai(0535),weihai(0631),rizhao(0633),linyi(0539),zaozhuang(0632),jining(0537),taian(0538),laiwu(0634),binzhou(0543),heze(0530)"/>
+	</province>
+	
+	<province name="陕西" string="shanxi">
+		<citys list="xian(029),yanan(0911),tongchuan(0919),weinan(0913),xianyang(029),baoji(0917),hanzhong(0916),yulin1(0912),shangluo(0914),ankang(0915)"/>
+	</province>
+	
+	<province name="山西" string="shanxi">
+		<citys list="taiyuan(0351),datong(0352),shuozhou(0349),yangquan(0353),changzhi(0355),jincheng(0356),xinzhou(0350),lvliang(0358),jinzhong(0354),linfen(0357),yuncheng(0359)"/>
+	</province>
+	
+	<province name="四川" string="sichuan">
+		<citys list="chengdu(028),guangyuan(0839),mianyang(0816),deyang(0838),nanchong(0817),guangan(0826),suining(0825),neijiang(0832),leshan(0833),zigong(0813),luzhou(0830),yibin(0831),panzhihua(0812),bazhong(0827),dazhou(0818),ziyang(028),meishan(028),yaan(0835)"/>
+	</province>
+	
+	<province name="云南" string="yunnan">
+		<citys list="kunming(0871),qujing(0874),yuxi(0877),lijiang(0888),zhaotong(0870),lincang(0883),baoshan(0875)"/>
+	</province>
+	
+	<province name="浙江" string="zhejiang">
+		<citys list="hangzhou(0571),ningbo(0574),huzhou(0572),jiaxing(0573),zhoushan(0580),shaoxing(0575),quzhou(0570),jinhua(0579),taizhou2(0576),wenzhou(0577),lishui(0578)"/>
+	</province>
+	
+	<province name="青海" string="qinghai">
+		<citys list="xining(0971)"/>
+	</province>
+	
+	<province name="广西壮族自治区" string="guangxizhuangzuzizhiqu">
+		<citys list="nanning(0771),guilin(0773),liuzhou(0772),wuzhou(0774),guigang(0775),yulin2(0775),qinzhou(0777),beihai(0779),fangchenggang(0770),chongzuo(0771),baise(0776),hechi(0778),laibin(0772),hezhou(0774)"/>
+	</province>
+	
+	<province name="内蒙古自治区" string="neimengguzizhiqu">
+		<citys list="huhehaote(0471),baotou(0472),wuhai(0473),chifeng(0476),hulunbeier(0470),tongliao(0475),wulanchabu(0474),eerduosi(0477),bayannaoer(0478)"/>
+	</province>
+	
+	<province name="宁夏回族自治区" string="ningxiahuizuzizhiqu">
+		<citys list="yinchuan(0951),shizuishan(0952),wuzhong(0953),zhongwei(0955),guyuan(0954)"/>
+	</province>
+	
+	<province name="西藏自治区" string="xizangzizhiqu">
+		<citys list="lasa(0891)"/>
+	</province>
+	
+	<province name="新疆自治区" string="xinjiangzizhiqu">
+		<citys list="wulumuqi(0991),kelamayi(0990),shihezi(0993),tumushuke(0998)"/>
+	</province>
+</country>
